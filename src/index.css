@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: font1;
+  src: url(./assets/Fonts/6IN5WOLRCYP4G4MOCOHOMXNON6Q7MDAR.woff2);
+}
+@font-face {
+  font-family: font2;
+  src: url(./assets/Fonts/6XPIMU23OJVRY676OG5YVJMWEHWICATX.woff2);
+}
+
+@font-face {
+  font-family: font3;
+  src: url(./assets/Fonts/O34WRFYO7JNWEBBA2LRV2XYRUSYXYDKH.woff2);
+}
+
+@font-face {
+  font-family: font4;
+  src: url(./assets/Fonts/Y7SCNZJOT2MW5ADSGOFLDGH4TNL4JCQY.woff2);
+}
+@font-face {
+  font-family: font5;
+  src: url(./assets/Fonts/YS3VPNVO4B3TOJMEXDGFZQ4TLZGGSRZC.woff2);
+}
+
+.font1{
+  font-family: font1;
+}
+
+.font2{
+  font-family: font2;
+}
+
+.font3{
+  font-family: font3;
+}
+
+.font4{
+  font-family: font4;
+}
+
+.font5{
+  font-family: font5;
+}
+
+
